@@ -1,10 +1,6 @@
 
 # Axum SQLX REST API Template
 
-[![Rust](https://img.shields.io/badge/rust-stable-brightgreen?logo=rust)](https://www.rust-lang.org/)
-[![Axum](https://img.shields.io/badge/axum-0.6-blue)](https://github.com/tokio-rs/axum)
-[![SQLx](https://img.shields.io/badge/sqlx-0.6-orange)](https://github.com/launchbadge/sqlx)
-
 A production-ready template for building robust, type-safe, and asynchronous REST APIs in Rust using the Axum framework and SQLx for PostgreSQL.
 
 ## ✨ Features
