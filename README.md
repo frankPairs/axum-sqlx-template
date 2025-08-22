@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🙏 Acknowledgments
 
-- The [Tokio](https://github.com/tokio-rs), [Axum](https://github.com/tokio-rs/axum), and [SQLx](https://github.com/launchbadge/sqlx) teams for the amazing async ecosystem.
+- Thanks to [Tokio](https://github.com/tokio-rs), [Axum](https://github.com/tokio-rs/axum), and [SQLx](https://github.com/launchbadge/sqlx) teams for their amazing OSS contributions.
