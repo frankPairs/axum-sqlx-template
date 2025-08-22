@@ -60,7 +60,6 @@ A production-ready template for building robust, type-safe, and asynchronous RES
 ## 🛣️ Roadmap & Ideas for Contribution
 
 This template is a starting point. Here are some ideas for how you could extend it:
-- [ ] Add JWT Authentication middleware.
 - [ ] Add example CRUD endpoints for a resource (e.g., `User` or `Post`).
 - [ ] Integrate a testing suite (unit, integration).
 - [ ] Add Dockerfile and docker-compose setup.
