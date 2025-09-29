@@ -58,7 +58,7 @@ pub struct DbSettings {
 
 impl DbSettings {
     pub fn new() -> Result<Self, SettingsError> {
-        let url = get_env_value("DB_URL")?;
+        let url = get_env_value("DATABASE_URL")?;
 
         Ok(Self { url })
     }

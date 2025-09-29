@@ -4,15 +4,15 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-anyhow = "1.0.99"
-axum = { version = "0.8.4", features = ["tracing"] }
+anyhow = "1.0.100"
+axum = { version = "0.8.5", features = ["tracing"] }
 dotenv = "0.15.0"
-serde = { version = "1.0.219", features = ["derive"] }
+serde = { version = "1.0.228", features = ["derive"] }
 sqlx = { version = "0.8.6", features = ["json", "postgres", "runtime-tokio"] }
-thiserror = "2.0.16"
+thiserror = "2.0.17"
 tokio = { version = "1.47.1", features = ["full"] }
 tower-http = { version = "0.6.6", features = ["cors"] }
 tracing = "0.1.41"
 tracing-bunyan-formatter = "0.3.10"
 tracing-log = "0.2.0"
-tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.20", features = ["env-filter"] }
